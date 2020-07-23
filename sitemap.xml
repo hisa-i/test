@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>http://kochiken.starfree.jp/</loc>
+  <priority>1.0</priority>
+  <lastmod>2018-11-10T21:53:27+09:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://kochiken.starfree.jp/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2018-11-10T21:53:27+09:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://kochiken.starfree.jp/home.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2018-11-10T21:53:27+09:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://kochiken.starfree.jp/photo.html</loc>
+  <priority>0.6</priority>
+  <lastmod>2018-11-10T21:53:27+09:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://kochiken.starfree.jp/result.html</loc>
+  <priority>0.6</priority>
+  <lastmod>2018-11-10T21:53:27+09:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://kochiken.starfree.jp/history.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2018-11-10T21:53:27+09:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+</urlset>

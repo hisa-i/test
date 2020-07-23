@@ -1,0 +1,78 @@
+﻿body{
+	width: 1000px;
+	text-align: center;
+	margin: auto;
+	padding: 0px;
+	font-size: 20px;
+	font-family: "MS明朝","游明朝Midium","游明朝",serif;
+}
+#all{
+	background: #eef;
+	padding-bottom: 20px;
+}
+#header{
+	background: #000;
+	color: #ffffff;
+	text-align: center;
+	font-size: 50px;
+	font-family: "メイリオ","游ゴシックMidium","游ゴシック",sans-serif;
+	padding: 30px 0px;
+	margin-top: -10px;
+	margin-bottom: 35px;
+}
+#navi{
+	float: right;
+	height: 100px;
+	width: 100px;
+	margin: -150px 20px 0px 0px;
+}
+#navi td{
+	width: 98px;
+	height: 98px;
+	margin: 0px;
+	background: #00c;
+	border: solid 2px #fff;
+	border-radius: 50%;
+	font-weight: 600;
+	font-size: 20px;
+	font-family: "メイリオ","游ゴシックMidium","游ゴシック",sans-serif;
+}
+#navi a:link{
+	color: #fff;
+}
+#navi a:visited{
+	color: #fff;
+}
+#navi a:hover{
+	color: #00c;
+	background: #fff;
+}
+#navi a:active{
+	color: #000;
+	background: #fff;
+}
+#navi a{
+	display:inline-block;
+	width:100%;
+	height:100%;
+	border-radius: 50%;
+	text-decoration: none;
+}
+#side_bar{
+	text-align: left;
+	float: left;
+	padding-left: 5%;
+	padding-right: 0;
+}
+img{
+	width: 100%;
+}
+table{
+	margin: auto;
+}
+td:not(#navi td){
+	padding: 0px 50px;
+}
+td:not(#navi td), tr:not(#navi td), table:not(#navi td){
+	font-size: 110%;
+}
